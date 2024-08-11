@@ -9,7 +9,7 @@
 For a detailed Labs description, please refer to the [Labs Description PDF](./Electrical%20Lab%20ed2.pdf).
 
 ### Lab02
-The Report for this experiment is provided in [Lab02 Report PDF](./گزارش \کار \آزمایش\ ۲\ الک \-\ ۹۹۳۱۰۶۱.pdf).
+The Report for this experiment is provided in [Lab02 Report PDF](./Lab2-Report.pdf).
 
 ### Lab03
 The Report for this experiment is provided in [Lab03 Report PDF](./گزارش20%کار20%آزمایش20%20۳%الک20%-20%۹۹۳۱۰۶۱.pdf).
