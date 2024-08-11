@@ -4,7 +4,7 @@
 - [Project Description](#project-description)
 
 ## Project Description
-For a detailed Labs description, please refer to the [Labs Description PDF](./Electrical%20Lab%20ed2.pdf).
+For a detailed Labs description, please refer to the [Labs Description PDF](./Electrical%20Lab%20ed2.pdf). <br />
 Reports are provided in the repository.
 
 
